@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://abdesselame17.github.io"
-baseurl: ""
+url: "www.abdesselam.ml"
+baseurl: "abdesselam.ml"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -17,7 +17,7 @@ baseurl: ""
 title: Abdesselam
 
 # Short description of your site
-description: Portfolio!
+description: Personal!
 
 # --- Navigation bar options --- #
 
@@ -66,11 +66,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: Abdesselam
-  github: Abdesselam
-  twitter: Abdesselam
+#  rss: false
+  email: "freelancerlwjgl@gmail.com"
+  facebook: "artistolwjgl"
+  github: "abdesselame17"
+  twitter: "abdesselame17"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Abdesselame17.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abdesselam"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

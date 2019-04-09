@@ -1,16 +1,33 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+> subtitle: Let Me Introduce My Self  
 ---
 
-My name is Abdesselam. I have the following qualities:
+Hi, This is me Hamed BENSAAD, and I am doing all this stupid things:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Drink some Coffee and code all day.
+- I am Avid Reader.
+- Passionate about everything related to Web, Linux.
+- Open Source supporter.
+- I am still use [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) and always find out new things about it.
+- [Real Madrid](https://www.realmadrid.com/en)'s huge fan.
 
-What else do you need?
+### More details about me.
 
-### my history
+- 2013: bachelor-degree (Mathematics)
+- 2016: Computer Science (Licence-degree) [Univ of Mostefa Ben Boulaid](https://en.wikipedia.org/wiki/University_of_Batna_2)
+- 2018: Intelligence Artifical (Master degree) [Univ of Mostefa Ben Boulaid](https://en.wikipedia.org/wiki/University_of_Batna_2)
+- 2018 - ...: FreeLancer.
+ 
+### Technical Skills
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- HTML, CSS3, JavaScript 
+- Java, Php
+- Sql
+- Laravel, Bootstrap4   
+- Git
+
+### Download Resume
+
+[Download Pdf Format](https://www.abdesselam.ml)
