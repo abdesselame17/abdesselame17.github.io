@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-> subtitle: Let Me Introduce My Self  
 ---
 
 Hi, This is me Hamed BENSAAD, and I am doing all this stupid things:
@@ -18,7 +17,7 @@ Hi, This is me Hamed BENSAAD, and I am doing all this stupid things:
 - 2013: bachelor-degree (Mathematics)
 - 2016: Computer Science (Licence-degree) [Univ of Mostefa Ben Boulaid](https://en.wikipedia.org/wiki/University_of_Batna_2)
 - 2018: Intelligence Artifical (Master degree) [Univ of Mostefa Ben Boulaid](https://en.wikipedia.org/wiki/University_of_Batna_2)
-- 2018 - ...: FreeLancer.
+- 2018 -> now: FreeLancer.
  
 ### Technical Skills
 
