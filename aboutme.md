@@ -18,7 +18,7 @@ Hi, This is me Hamed BENSAAD, and I am doing all this:
 - 2018 -> now: FreeLancer.
  
 ### Technical Skills
-
+my skills
 #### Programming languages
 - HTML, CSS, JavaScript 
 - Php, Java, Sql
