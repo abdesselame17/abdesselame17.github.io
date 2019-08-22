@@ -3,8 +3,4 @@ layout: page
 title: My Projects
 ---
 
-#### Projects
-
-#### Packages
-
-#### Open Source Projects
+##### Some of my works are on [github](https://github.com/abdesselame17) 
