@@ -25,7 +25,7 @@ my skills
 #### Backend Frameworks
 - Laravel, Nodejs   
 #### Frontend Frameworks
-- React, Material-UI, Bootstrap
+- React, Bootstrap
 #### Version Control Systems 
 - Git
 #### others
