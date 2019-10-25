@@ -17,8 +17,7 @@ Hi, This is me Hamed BENSAAD, and I am doing all this:
 - 2018: Intelligence Artifical (Master degree) [Univ of Mostefa Ben Boulaid](https://en.wikipedia.org/wiki/University_of_Batna_2)
 - 2018 -> now: FreeLancer.
  
-### Technical Skills
-my skills
+### Skills
 #### Programming languages
 - HTML, CSS, JavaScript 
 - Php, Java, Sql
